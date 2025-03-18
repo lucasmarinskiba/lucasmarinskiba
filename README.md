@@ -42,7 +42,7 @@ Apasionado por la inteligencia artificial y el desarrollo de software. Me especi
    - [Repositorio](https://github.com/lucasmarin/biology-chatbot)
 
 3. **Generador de Contenido con IA**: Una herramienta que utiliza GPT-4 para generar contenido creativo y técnico. EN PROCESO  
-   - [Demo](https://lucasmarin-ia-generator.com)
+   - [Demo](inserte link)
 
 4. **Plataforma de Recomendaciones**: Un sistema de recomendación basado en machine learning para servicios locales. EN PROCESO 
    - [Código](inserte link)
