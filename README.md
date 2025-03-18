@@ -69,3 +69,5 @@ Apasionado por la inteligencia artificial y el desarrollo de software. Me especi
 > "La IA no reemplazará a los humanos, pero los humanos que usan IA reemplazarán a los que no lo hacen." – Kai-Fu Lee (Experto en IA)
 
 > "La IA es la nueva electricidad. Así como la electricidad transformó industrias hace 100 años, la IA lo está haciendo hoy." – Andrew Ng (Pionero en IA)
+
+> "La IA tiene el potencial de ser la herramienta más poderosa que la humanidad haya creado, pero debemos usarla con sabiduría." – Elon Musk (CEO de Tesla y SpaceX)
