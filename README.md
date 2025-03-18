@@ -1,5 +1,5 @@
 # Hola, soy Lucas Marin 👋
-<img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100">
+<img src="https://tenor.com/iA6E1PxrpRR.gif" width="100">
 
 ## Python AI Developer 👨🏼‍💻 | Full Stack Developer 💻 | AI Engineering Student 🤖
 
