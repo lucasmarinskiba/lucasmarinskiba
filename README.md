@@ -1,4 +1,5 @@
 # Hola, soy Lucas Marin 👋
+<img src="https://tenor.com/iA6E1PxrpRR.gif" width="100">
 
 ## Python AI Developer 👨🏼‍💻 | Full Stack Developer 💻 | AI Engineering Student 🤖
 
