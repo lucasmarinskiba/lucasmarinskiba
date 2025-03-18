@@ -22,7 +22,7 @@ Apasionado por la inteligencia artificial y el desarrollo de software. Me especi
 
 - **Estudiante de Ingeniería en IA**: Universidad Nacional del Litoral (FICH-UNL)
   
-        <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f916.gif" width="40"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f916.gif" width="40"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f916.gif" width="40">
+<img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f916.gif" width="40"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f916.gif" width="40"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f916.gif" width="40">
 
 - **Cursos Relevantes**:  
   - Python AI Development(Mimo)
