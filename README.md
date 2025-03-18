@@ -8,10 +8,10 @@ Apasionado por la inteligencia artificial y el desarrollo de software. Me especi
 
 - **Lenguajes de Programación**: Python, JavaScript, Java, HTML, CSS
 - **Desarrollo Full Stack**: React, Node.js, Django, Flask
-- **Inteligencia Artificial**: TensorFlow, PyTorch, OpenAI GPT, 
+- **Inteligencia Artificial**: TensorFlow, MLflow, PyTorch, OpenAI GPT,
 - **Bases de Datos**: SQL, 
-- **DevOps**: Docker, Kubernetes, CI/CD
-- **Responsable AI**: Ética en IA, Uso Responsable de la IA, Transparencia, Sesgo y Fairness
+- **DevOps**: aprendiendo...
+- **Responsable AI**: Ética en IA, IA en la Sociedad, Transparencia, Sesgo y Fairness
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
