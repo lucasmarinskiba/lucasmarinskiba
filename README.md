@@ -1,5 +1,5 @@
 # Hola, soy Lucas Marin 👋
-<img src="https://tenor.com/iA6E1PxrpRR.gif" width="100">
+<img src="https://emojiterra.com/es/agitar-la-mano/" width="100">
 
 ## Python AI Developer 👨🏼‍💻 | Full Stack Developer 💻 | AI Engineering Student 🤖
 
