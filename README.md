@@ -1,4 +1,4 @@
-# Hola, soy Lucas Marin <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" width="100">
+# Hola, soy Lucas Marin <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" width="25">
 
 ## Python AI Developer 👨🏼‍💻 | Full Stack Developer 💻 | AI Engineering Student 🤖
 
