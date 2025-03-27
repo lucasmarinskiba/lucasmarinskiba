@@ -60,7 +60,7 @@ Apasionado por la inteligencia artificial y el desarrollo de software. Me especi
 
 - **Email**: lucasdmarin@gmail.com  
 - **LinkedIn**: [Lucas Marin](https://www.linkedin.com/in/lucas-daniel-marin/)  
-- **GitHub**: [lucas Daniel Marin](https://github.com/lucasmarinskiba)  
+- **GitHub**: [Lucas Daniel Marin](https://github.com/lucasmarinskiba)  
 - **TikTok 1**: [@lucasdmarin](https://www.tiktok.com/@lucasdmarin)
 - **TikTok 2**:[@lucasmarski](https://www.tiktok.com/@lucasmarski)
 
