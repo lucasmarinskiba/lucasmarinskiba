@@ -47,7 +47,7 @@ Apasionado por la inteligencia artificial y el desarrollo de software. Me especi
 3. **Casa de Comida Polaca**: una web que recorre los sabores tradicionales de Polonia.
    - [link](https://lucasmarinskiba.github.io/casa-de-comida-polaca/)
 
-4. **Web para estudio contable**: web para trabajo profesional de un estudio contable.
+4. **Web para estudio contable**: web para trabajo profesional de un estudio contable. Con Chat entre los usuarios y una interfaz fácil de entender. 
    - [link](https://lucasmarinskiba.github.io/paraDanielMar-n/index.html)
 
 5. **Generador de Contenido con IA**: Una herramienta que utiliza GPT-4 para generar contenido creativo y técnico. EN PROCESO  
