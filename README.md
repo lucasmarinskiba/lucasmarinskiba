@@ -58,9 +58,9 @@ Apasionado por la inteligencia artificial y el desarrollo de software. Me especi
 
 ### 📊 Estadísticas
 
-![Lucas Marin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmarin&show_icons=true&theme=radical)
+![Lucas Marin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmarinskiba&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarin&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarinskiba&layout=compact&theme=radical)
 
 ### 📫 Contacto
 
