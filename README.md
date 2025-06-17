@@ -49,11 +49,17 @@ Apasionado por la inteligencia artificial y el desarrollo de software. Me especi
 
 4. **Web para estudio contable**: web para trabajo profesional de un estudio contable. Con Chat entre los usuarios y una interfaz fácil de entender. 
    - [link](https://lucasmarinskiba.github.io/paraDanielMar-n/index.html)
-
-5. **Generador de Contenido con IA**: Una herramienta que utiliza GPT-4 para generar contenido creativo y técnico. EN PROCESO  
+  
+5. **Videojuego MarIA**: videojuego creado como proyecto para la Universidad. EN PROCESO  
+   - [Demo](inserte link)
+  
+6. **EnterpriseFlow**: Plataforma de Automatizaciones dedicada especialmente a Pymes que, a través de automatizaciones y demás herramientas, ayuda al emprendimiento. EN PROCESO  
    - [Demo](inserte link)
 
-6. **Plataforma de Recomendaciones**: Un sistema de recomendación basado en machine learning para servicios locales. EN PROCESO 
+7. **Generador de Contenido con IA**: Una herramienta que utiliza GPT-4 para generar contenido creativo y técnico. PROXIMAMENTE  
+   - [Demo](inserte link)
+
+8. **Plataforma de Recomendaciones**: Un sistema de recomendación basado en machine learning para servicios locales. PROXIMAMENTE 
    - [Código](inserte link)
 
 ### 📊 Estadísticas
