@@ -45,31 +45,6 @@ Apasionado por la inteligencia artificial y el desarrollo de software. Me especi
   - Elements of AI (University of Helsinki)
   - Building AI (University of Helsinki)
 
-### 🌟 Proyectos Destacados
-
-1. **Chatbot de Biología**: Un chatbot interactivo que responde preguntas sobre biología utilizando Python, HTML, CSS.  
-   - [Repositorio](https://github.com/lucasmarin/biology-chatbot)
-     
-2. **Chatbot estilo Calculadora Basica**: Un chatbot interactivo que responde preguntas sobre calculos matematicos utilizando Python, HTML, CSS.  
-   - [Repositorio](https://github.com/lucasmarin/biology-chatbot)
-     
-3. **Casa de Comida Polaca**: una web que recorre los sabores tradicionales de Polonia.
-   - [link](https://lucasmarinskiba.github.io/casa-de-comida-polaca/)
-
-4. **Web para estudio contable**: web para trabajo profesional de un estudio contable. Con Chat entre los usuarios y una interfaz fácil de entender. 
-   - [link](https://lucasmarinskiba.github.io/paraDanielMar-n/index.html)
-  
-5. **Videojuego MarIA**: videojuego creado como proyecto para la Universidad. EN PROCESO  
-   - [Demo](inserte link)
-  
-6. **EnterpriseFlow**: Plataforma de Automatizaciones dedicada especialmente a Pymes que, a través de automatizaciones y demás herramientas, ayuda al emprendimiento. EN PROCESO  
-   - [Demo](inserte link)
-
-7. **Generador de Contenido con IA**: Una herramienta que utiliza GPT-4 para generar contenido creativo y técnico. PROXIMAMENTE  
-   - [Demo](inserte link)
-
-8. **Plataforma de Recomendaciones**: Un sistema de recomendación basado en machine learning para servicios locales. PROXIMAMENTE 
-   - [Código](inserte link)
 
 ### 📊 Estadísticas
 
