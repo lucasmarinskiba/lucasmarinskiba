@@ -6,9 +6,9 @@ Apasionado por la inteligencia artificial y el desarrollo de software. Me especi
 
 ### 🛠️ Habilidades Técnicas
 
-- **Lenguajes de Programación**: Python, JavaScript, Java, C++, HTML, CSS, 
+- **Lenguajes de Programación**: Python, JavaScript, Java, C++, HTML, CSS, TypeScript
 - **Desarrollo Full Stack**: React, Node.js, Django, Flask
-- **Inteligencia Artificial**: TensorFlow, MLflow, PyTorch, OpenAI GPT,
+- **Inteligencia Artificial**: TensorFlow, MLflow, PyTorch, OpenAI GPT, Docker, Machine Learning Engineering, Python AI Developing
 - **Bases de Datos**: SQL, 
 - **DevOps**: aprendiendo...
 - **Responsable AI**: Ética en IA, IA en la Sociedad, Transparencia, Sesgo y Fairness
