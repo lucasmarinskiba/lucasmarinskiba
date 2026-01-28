@@ -44,6 +44,8 @@ Apasionado por la inteligencia artificial y el desarrollo de software. Me especi
   - Ethics of AI (University of Helsinki)
   - Elements of AI (University of Helsinki)
   - Building AI (University of Helsinki)
+  - Machine Learning Engineering (DataCamp)
+
 
 
 ### 📊 Estadísticas
