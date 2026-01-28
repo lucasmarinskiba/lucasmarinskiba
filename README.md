@@ -8,7 +8,7 @@ Apasionado por la inteligencia artificial y el desarrollo de software. Me especi
 
 - **Lenguajes de Programación**: Python, JavaScript, Java, C++, HTML, CSS, TypeScript
 - **Desarrollo Full Stack**: React, Node.js, Django, Flask
-- **Inteligencia Artificial**: TensorFlow, MLflow, PyTorch, OpenAI GPT, Docker, Machine Learning Engineering, Python AI Developing
+- **Inteligencia Artificial**: TensorFlow, MLflow, PyTorch (Deep Learning), OpenAI GPT, Docker, Machine Learning Engineering, Python AI Developing, CI/CD for Machine Learning, ETL and ELT in Python, MLOps Deployment and Life Cycling, Fraud Detection in Python, Supervised Learning with scikit-learn, Machine Learning in Production in Python
 - **Bases de Datos**: SQL, 
 - **DevOps**: aprendiendo...
 - **Responsable AI**: Ética en IA, IA en la Sociedad, Transparencia, Sesgo y Fairness
